@@ -49,7 +49,8 @@ INSTALLED_APPS = [
     'rest_framework',
     'bootstrap4',
     'django_extensions',
-    'debug_toolbar'
+    'debug_toolbar',
+    'django_seed'
 ]
 
 MIDDLEWARE = [
